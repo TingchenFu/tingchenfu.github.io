@@ -17,42 +17,143 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hello, I am Tingchen Fu \[i:doʊn wɑ:n\] or 付廷琛 in Chinese. After spending lovely four years in Renmin University of China as an CS undergraduate, I am now starting a new journey in Gaoling School of Artificial Intelligence, Renmin University of China as an NLP researcher and a fanatic believer on AGI. Gaoling School of Artificial Intelligence (GSAI) 是一所新成立的年轻有活力的学院，汇聚了一大批热爱machine learning的研究者. and I am very lucky to start my life as a researcher at here, advised by Xueliang Zhao and Rui Yan. Meanwhile, I enjoy taking a short to the industry world, and I am currently an intern at Tencent AI Lab, mentored by Dr. Lemao Liu.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have broad research interest around intelligent dialogue system, data-driven analysis of deep learning models, and the development of large language model. Particularly, I am fancinated by the capacity and potential of language models and dedicated to unveil how to inject and extract knowledge from language models. Enjoying the exploration to the cutting edge of NLP and AGI, I am happy to share my trials and findings at top international AI Conferences. You can find my publications at [here]().
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.05*: &nbsp;🎉🎉 I got one paper accepted by KDD'23. Thanks for my colleborators! See you at Longbeach.
+- *2023.05*: &nbsp;🎉🎉 I got two papers accepeted by ACL and the findings of ACL. Thanks for my colleborators! 
+- *2023.02*: &nbsp;🎉🎉 Join the Tencent AI Lab as an research intern, advised by Dr. Lemao Liu
+- *2022.06*: &nbsp;🎉🎉 Obtain my Bachelor of Engineering from Renmin University of China. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - present*, master student in the Gaoling School of Artificial Intelligence, Renmin University of China.
+- *2018.09 - 2022.06*, undergraduate student in the School of Information, Nanjing University.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💼 Internships
+- *2023.02 - present*, Tencent AI Lab, advised by Dr. Lemao Liu.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- 
+# 📝 Preprints
+- A Survey on Evaluation of Large Language Models. [\[paper\]](https://arxiv.org/abs/2307.03109); [![](https://img.shields.io/github/stars/MLGroupJLU/LLM-eval-survey?style=social&label=Code+Stars)](https://github.com/MLGroupJLU/LLM-eval-survey)
+
+  Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Kaijie Zhu, Hao Chen, Linyi Yang, Xiaoyuan Yi, Cunxiang Wang, **Yidong Wang**, Wei Ye, Yue Zhang, Yi Chang, Philip S. Yu, Qiang Yang, Xing Xie.
+
+- PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization. [\[paper\]](https://arxiv.org/abs/2306.05087); [![](https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social&label=Code+Stars)](https://github.com/WeOpenML/PandaLM)
+  
+  **Yidong Wang**, Zhuohao Yu, Zhengran Zeng, Linyi Yang, Cunxiang Wang, Hao Chen, Chaoya Jiang, Rui Xie, Jindong Wang, Xing Xie, Wei Ye, Shikun Zhang, Yue Zhang.
+
+- Evaluating open question answering evaluation. [\[paper\]](https://arxiv.org/abs/2305.12421); [![](https://img.shields.io/github/stars/wangcunxiang/QA-Eval?style=social&label=Code+Stars)](https://github.com/wangcunxiang/QA-Eval)
+  
+  Cunxiang Wang, Sirui Cheng, Zhikun Xu, Bowen Ding, **Yidong Wang**, Yue Zhang.
+  
+- Imprecise Label Learning: A Unified Framework for Learning with Various Imprecise Label Configurations. [\[paper\]](https://arxiv.org/abs/2305.12715).
+  
+  Hao Chen, Ankit Shah, Jindong Wang, Ran Tao, **Yidong Wang**, Xing Xie, Masashi Sugiyama, Rita Singh, Bhiksha Raj.
+  
+- Out-of-Distribution Generalization in Text Classification: Past, Present, and Future. [\[paper\]](https://arxiv.org/abs/2305.14104).
+  
+  Linyi Yang, Yaoxiao Song, Xuan Ren, Chenyang Lyu, **Yidong Wang**, Lingqiao Liu, Jindong Wang, Jennifer Foster, Yue Zhang.
+
+- PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts. [\[paper\]](https://arxiv.org/abs/2306.04528); [![](https://img.shields.io/github/stars/microsoft/promptbench?style=social&label=Code+Stars)](https://github.com/microsoft/promptbench)
+  
+  Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zichen Wang, Hao Chen, **Yidong Wang**, Linyi Yang, Wei Ye, Neil Zhenqiang Gong, Yue Zhang, Xing Xie.
+
+- Conv-Adapter: Exploring Parameter Efficient Transfer Learning for ConvNets. [\[paper\]](https://arxiv.org/abs/2208.07463). 
+  
+  Hao Chen, Ran Tao, Han Zhang, **Yidong Wang**, Wei Ye, Jindong Wang, Guosheng Hu, Marios Savvides.
+
+- An Embarrassingly Simple Baseline for Imbalanced Semi-Supervised Learning. [\[paper\]](https://arxiv.org/abs/2211.11086). 
+  
+  Hao Chen, Yue Fan, **Yidong Wang**, Jindong Wang, Bernt Schiele, Xing Xie, Marios Savvides, Bhiksha Raj.  -->
+
+# 📝 Publications
+- Towards Optimization and Model Selection for Domain Generalization: A Mixup-guided Solution. [\[paper\]](https://arxiv.org/abs/2209.00652). 
+
+  Wang Lu, Jindong Wang, **Yidong Wang**, Kan Ren, Yiqiang Chen, Xing Xie.
+
+  KDD 2023 workshop on Causal Discovery, Prediction and Decision (**CDPD 2023**).
+
+- Exploring Vision-Language Models for Imbalanced Learning. [\[paper\]](https://arxiv.org/abs/2304.01457); [![](https://img.shields.io/github/stars/Imbalance-VLM/Imbalance-VLM?style=social&label=Code+Stars)](https://github.com/Imbalance-VLM/Imbalance-VLM)
+
+  **Yidong Wang**, Zhuohao Yu, Jindong Wang, Qiang Heng, Hao Chen, Wei Ye, Rui Xie, Xing Xie, Shikun Zhang.
+  
+   International Journal of Computer Vision 2023 (**IJCV 2023**).
+  
+- GLUE-X: Evaluating Natural Language Understanding Models from an Out-of-distribution Generalization Perspective. [\[paper\]](https://arxiv.org/abs/2211.08073); [![](https://img.shields.io/github/stars/YangLinyi/GLUE-X?style=social&label=Code+Stars)](https://github.com/YangLinyi/GLUE-X)
+
+  Linyi Yang, Shuibai Zhang, Libo Qin, Yafu Li, **Yidong Wang**, Hanmeng Liu, Jindong Wang, Xing Xie, Yue Zhang. 
+  
+  Findings of Annual Meeting of the Association for Computational Linguistics 2023 (**ACL 2023 Findings**).
+
+- On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective. [\[paper\]](https://arxiv.org/abs/2302.12095); [![](https://img.shields.io/github/stars/microsoft/robustlearn?style=social&label=Code+Stars)](https://github.com/microsoft/robustlearn/tree/main/chatgpt-robust)
+  
+  Jindong Wang, Xixu Hu, Wenxin Hou, Hao Chen, Runkai Zheng, **Yidong Wang**, Linyi Yang, Haojun Huang, Wei Ye, Xiubo Geng, Binxin Jiao, Yue Zhang, Xing Xie.
+  
+  Workshop on Trustworthy and Reliable Large-Scale Machine Learning Models at ICLR 2023 (**RTML Workshop 2023**).
+  
+- FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning. [\[paper\]](https://arxiv.org/abs/2205.07246);  [![](https://img.shields.io/github/stars/microsoft/Semi-supervised-learning?style=social&label=Code+Stars)](https://github.com/microsoft/Semi-supervised-learning)
+  
+  **Yidong Wang**, Hao Chen, Qiang Heng, Wenxin Hou, Yue Fan, Zhen Wu, Jindong Wang, Marios Savvides, Takahiro Shinozaki, Bhiksha Raj, Bernt Schiele, Xing Xie.
+  
+  International Conference on Learning Representations 2023 (**ICLR 2023**).
+
+- SoftMatch: Addressing the Quantity-Quality Tradeoff in Semi-supervised Learning. [\[paper\]](https://arxiv.org/abs/2301.10921); [![](https://img.shields.io/github/stars/microsoft/Semi-supervised-learning?style=social&label=Code+Stars)](https://github.com/microsoft/Semi-supervised-learning) 
+  
+  Hao Chen, Ran Tao, Yue Fan, **Yidong Wang**, Marios Savvides, Jindong Wang, Bhiksha Raj, Xing Xie, Bernt Schiele. 
+  
+  International Conference on Learning Representations 2023 (**ICLR 2023**).
+
+- USB: A Unified Semi-supervised Learning Benchmark for Classification. [\[paper\]](https://arxiv.org/abs/2208.07204); [![](https://img.shields.io/github/stars/microsoft/Semi-supervised-learning?style=social&label=Code+Stars)](https://github.com/microsoft/Semi-supervised-learning) 
+  
+  **Yidong Wang**, Hao Chen, Yue Fan, Wang Sun, Ran Tao, Wenxin Hou, Renjie Wang, Linyi Yang, Zhi Zhou, Lan-Zhe Guo, Heli Qi, Zhen Wu, Yu-Feng Li, Satoshi Nakamura, Wei Ye, Marios Savvides, Bhiksha Raj, Takahiro Shinozaki, Bernt Schiele, Jindong Wang, Xing Xie, Yue Zhang. 
+  
+  Advances in Neural Information Processing Systems 2022 (**NeurIPS 2022**).
+
+- Margin Calibration for Long-Tailed Visual Recognition. [\[paper\]](https://arxiv.org/abs/2112.07225); [![](https://img.shields.io/github/stars/microsoft/robustlearn?style=social&label=Code+Stars)](https://github.com/microsoft/robustlearn/tree/main/marc)
+  
+  **Yidong Wang**, Bowen Zhang, Wenxin Hou, Zhen Wu, Jindong Wang, Takahiro Shinozaki. 
+  
+  Asian Conference on Machine Learning 2022 (**ACML 2022**).
+
+- Exploiting Unlabeled Data for Target-Oriented Opinion Words Extraction. [\[paper\]](https://arxiv.org/abs/2208.08280); [![](https://img.shields.io/github/stars/TOWESSL/TOWESSL?style=social&label=Code+Stars)](https://github.com/TOWESSL/TOWESSL) 
+  
+  **Yidong Wang**, Hao Wu, Ao Liu, Wenxin Hou, Zhen Wu, Jindong Wang, Takahiro Shinozaki, Manabu Okumura, Yue Zhang. 
+  
+  International Conference on Computational Linguistics 2022 (**COLING 2022**).
+
+- Exploiting Adapters for Cross-lingual Low-resource Speech Recognition. [\[paper\]](https://arxiv.org/abs/2105.11905); [![](https://img.shields.io/github/stars/jindongwang/transferlearning?style=social&label=Code+Stars)](https://github.com/jindongwang/transferlearning/tree/master/code/ASR/Adapter) 
+  
+  Wenxin Hou, Han Zhu, **Yidong Wang**, Jindong Wang, Tao Qin, Renjun Xu, Takahiro Shinozaki. 
+  
+  IEEE/ACM Transactions on Audio, Speech and Language Processing 2022 (**TASLP 2022**).
+
+- Flexmatch: Boosting Semi-supervised Learning with Curriculum Pseudo Labeling. [\[paper\]](https://arxiv.org/abs/2110.08263); [![](https://img.shields.io/github/stars/TorchSSL/TorchSSL?style=social&label=Code+Stars)](https://github.com/TorchSSL/TorchSSL) 
+  
+  Bowen Zhang, **Yidong Wang (co-first author)**, Wenxin Hou, Hao Wu, Jindong Wang, Manabu Okumura, Takahiro Shinozaki. 
+  
+  Advances in Neural Information Processing Systems 2021 (**NeurIPS 2021**).
+
+- Meta-Adapter: Efficient Cross-Lingual Adaptation With Meta-Learning. [\[paper\]](https://ieeexplore.ieee.org/document/9414959); [![](https://img.shields.io/github/stars/jindongwang/transferlearning?style=social&label=Code+Stars)](https://github.com/jindongwang/transferlearning/tree/master/code/ASR/Adapter) 
+  
+  Wenxin Hou, **Yidong Wang**, Shengzhou Gao, Takahiro Shinozaki. 
+  
+  IEEE International Conference on Acoustics, Speech, and Signal Processing 2021 (**ICASSP 2021**).
+
+<!-- # 💻 Selected Projects
+- PandaLM [![](https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social&label=Code+Stars)](https://github.com/WeOpenML/PandaLM) refers to ReProducible and Automated Language Model Assessment. PandaLM aims to provide reproducible and automated comparisons between different large language models (LLMs). By giving PandaLM the same context, it can compare the responses of different LLMs and provide a reason for the decision, along with a reference answer. I am the main contributor to this repo and now leading the PandaLM team.
+- USB [![](https://img.shields.io/github/stars/microsoft/Semi-supervised-learning?style=social&label=Code+Stars)](https://github.com/microsoft/Semi-supervised-learning) is a Pytorch-based Python package for Semi-Supervised Learning (SSL). It is easy-to-use/extend, affordable, and comprehensive for developing and evaluating SSL algorithms. USB provides the implementation of 14 SSL algorithms based on Consistency Regularization, and 15 tasks for evaluation from CV, NLP, and Audio domain. I am the main contributor to this repo and now leading the USB team.
+- TorchSSL [![](https://img.shields.io/github/stars/TorchSSL/TorchSSL?style=social&label=Code+Stars)](https://github.com/TorchSSL/TorchSSL) is an all-in-one toolkit based on PyTorch for semi-supervised learning (SSL). Currently, we implemented 9 popular SSL algorithms to enable fair comparison and boost the development of SSL algorithms. I am the main contributor to this repo and now leading the TorchSSL team.
+- Microsoft NeuralSpeech [![](https://img.shields.io/github/stars/microsoft/NeuralSpeech?style=social&label=Code+Stars)](https://github.com/microsoft/NeuralSpeech) is a research project in Microsoft Research Asia focusing on neural network based speech processing, including automatic speech recognition (ASR), text to speech (TTS), etc. The code of Exploiting Adapters for Cross-lingual Low-resource Speech Recognition (TASLP 2022) has been moved to this repo. -->
+
+# 🎖 Honors and Awards
+- Outstanding Graduate, Renmin University of China, 2022 
+- National Scholarship, the Minister of Education, 2021
+- National Scholarship, the Minister of Education, 2020
+- Honorable Mention of Interdisciplinary Contest in Modeling, 2019.
+
+
+# 📄 Academic Services
+- Reviewer for Conferences: NeurIPS 2022, ICML 2023, NeurIPS 2023.
