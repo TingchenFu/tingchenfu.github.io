@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Tingchen Fu \[i:doʊn wɑ:n\] or 付廷琛 in Chinese. After spending lovely four years in Renmin University of China as an CS undergraduate, I am now starting a new journey in Gaoling School of Artificial Intelligence, Renmin University of China as an NLP researcher and a fanatic believer on AGI. Gaoling School of Artificial Intelligence (GSAI) 是一所新成立的年轻有活力的学院，汇聚了一大批热爱machine learning的研究者. and I am very lucky to start my life as a researcher at here, advised by Xueliang Zhao and Rui Yan. Meanwhile, I enjoy taking a short to the industry world, and I am currently an intern at Tencent AI Lab, mentored by Dr. Lemao Liu.
+Hello, I am Tingchen Fu or 付廷琛 in Chinese. After spending lovely four years in Renmin University of China as an CS undergraduate, I am now starting a new journey in Gaoling School of Artificial Intelligence, Renmin University of China as an NLP researcher and a fanatic believer on AGI. Gaoling School of Artificial Intelligence. GSAI is a young and vibrant institute that has recently been established, bringing together a large group of researchers who are passionate about machine learning, and I am very lucky to start my life as a researcher at here, advised by Xueliang Zhao and Rui Yan. I occasionally have short excursions to the industry world. and I am currently an intern at Tencent AI Lab, mentored by Dr. Lemao Liu.
 
 I have broad research interest around intelligent dialogue system, data-driven analysis of deep learning models, and the development of large language model. Particularly, I am fancinated by the capacity and potential of language models and dedicated to unveil how to inject and extract knowledge from language models. Enjoying the exploration to the cutting edge of NLP and AGI, I am happy to share my trials and findings at top international AI Conferences. You can find my publications at [here]().
 
@@ -70,83 +70,43 @@ I have broad research interest around intelligent dialogue system, data-driven a
   Hao Chen, Yue Fan, **Yidong Wang**, Jindong Wang, Bernt Schiele, Xing Xie, Marios Savvides, Bhiksha Raj.  -->
 
 # 📝 Publications
-- Towards Optimization and Model Selection for Domain Generalization: A Mixup-guided Solution. [\[paper\]](https://arxiv.org/abs/2209.00652). 
 
-  Wang Lu, Jindong Wang, **Yidong Wang**, Kan Ren, Yiqiang Chen, Xing Xie.
+- On the Compositional Generalization in Versatile Open-domain Dialogue [\[paper\]](https://aclanthology.org/2023.acl-long.760/)
 
-  KDD 2023 workshop on Causal Discovery, Prediction and Decision (**CDPD 2023**).
+  Tingchen Fu, Xueliang Zhao, Lemao Liu, Rui Yan
 
-- Exploring Vision-Language Models for Imbalanced Learning. [\[paper\]](https://arxiv.org/abs/2304.01457); [![](https://img.shields.io/github/stars/Imbalance-VLM/Imbalance-VLM?style=social&label=Code+Stars)](https://github.com/Imbalance-VLM/Imbalance-VLM)
+  Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (**ACL 2023**)
 
-  **Yidong Wang**, Zhuohao Yu, Jindong Wang, Qiang Heng, Hao Chen, Wei Ye, Rui Xie, Xing Xie, Shikun Zhang.
-  
-   International Journal of Computer Vision 2023 (**IJCV 2023**).
-  
-- GLUE-X: Evaluating Natural Language Understanding Models from an Out-of-distribution Generalization Perspective. [\[paper\]](https://arxiv.org/abs/2211.08073); [![](https://img.shields.io/github/stars/YangLinyi/GLUE-X?style=social&label=Code+Stars)](https://github.com/YangLinyi/GLUE-X)
+- SORTIE: Dependency-Aware Symbolic Reasoning for Logical Data-to-text Generation [\[paper\]](https://aclanthology.org/2023.findings-acl.715/)
 
-  Linyi Yang, Shuibai Zhang, Libo Qin, Yafu Li, **Yidong Wang**, Hanmeng Liu, Jindong Wang, Xing Xie, Yue Zhang. 
-  
-  Findings of Annual Meeting of the Association for Computational Linguistics 2023 (**ACL 2023 Findings**).
+  Xueliang Zhao, Tingchen Fu, Lemao Liu, Lingpeng Kong, Shuming Shi, Rui Yan
 
-- On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective. [\[paper\]](https://arxiv.org/abs/2302.12095); [![](https://img.shields.io/github/stars/microsoft/robustlearn?style=social&label=Code+Stars)](https://github.com/microsoft/robustlearn/tree/main/chatgpt-robust)
-  
-  Jindong Wang, Xixu Hu, Wenxin Hou, Hao Chen, Runkai Zheng, **Yidong Wang**, Linyi Yang, Haojun Huang, Wei Ye, Xiubo Geng, Binxin Jiao, Yue Zhang, Xing Xie.
-  
-  Workshop on Trustworthy and Reliable Large-Scale Machine Learning Models at ICLR 2023 (**RTML Workshop 2023**).
-  
-- FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning. [\[paper\]](https://arxiv.org/abs/2205.07246);  [![](https://img.shields.io/github/stars/microsoft/Semi-supervised-learning?style=social&label=Code+Stars)](https://github.com/microsoft/Semi-supervised-learning)
-  
-  **Yidong Wang**, Hao Chen, Qiang Heng, Wenxin Hou, Yue Fan, Zhen Wu, Jindong Wang, Marios Savvides, Takahiro Shinozaki, Bhiksha Raj, Bernt Schiele, Xing Xie.
-  
-  International Conference on Learning Representations 2023 (**ICLR 2023**).
+  Findings of the Association for Computational Linguistics: ACL 2023
 
-- SoftMatch: Addressing the Quantity-Quality Tradeoff in Semi-supervised Learning. [\[paper\]](https://arxiv.org/abs/2301.10921); [![](https://img.shields.io/github/stars/microsoft/Semi-supervised-learning?style=social&label=Code+Stars)](https://github.com/microsoft/Semi-supervised-learning) 
-  
-  Hao Chen, Ran Tao, Yue Fan, **Yidong Wang**, Marios Savvides, Jindong Wang, Bhiksha Raj, Xing Xie, Bernt Schiele. 
-  
-  International Conference on Learning Representations 2023 (**ICLR 2023**).
+- There Is No Standard Answer: Knowledge-Grounded Dialogue Generation with Adversarial Activated Multi-Reference Learning [\[paper\]](https://aclanthology.org/2022.emnlp-main.123/)
 
-- USB: A Unified Semi-supervised Learning Benchmark for Classification. [\[paper\]](https://arxiv.org/abs/2208.07204); [![](https://img.shields.io/github/stars/microsoft/Semi-supervised-learning?style=social&label=Code+Stars)](https://github.com/microsoft/Semi-supervised-learning) 
-  
-  **Yidong Wang**, Hao Chen, Yue Fan, Wang Sun, Ran Tao, Wenxin Hou, Renjie Wang, Linyi Yang, Zhi Zhou, Lan-Zhe Guo, Heli Qi, Zhen Wu, Yu-Feng Li, Satoshi Nakamura, Wei Ye, Marios Savvides, Bhiksha Raj, Takahiro Shinozaki, Bernt Schiele, Jindong Wang, Xing Xie, Yue Zhang. 
-  
-  Advances in Neural Information Processing Systems 2022 (**NeurIPS 2022**).
+  Xueliang Zhao, Tingchen Fu, Chongyang Tao, Rui Yan
 
-- Margin Calibration for Long-Tailed Visual Recognition. [\[paper\]](https://arxiv.org/abs/2112.07225); [![](https://img.shields.io/github/stars/microsoft/robustlearn?style=social&label=Code+Stars)](https://github.com/microsoft/robustlearn/tree/main/marc)
-  
-  **Yidong Wang**, Bowen Zhang, Wenxin Hou, Zhen Wu, Jindong Wang, Takahiro Shinozaki. 
-  
-  Asian Conference on Machine Learning 2022 (**ACML 2022**).
+  Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2022**)
 
-- Exploiting Unlabeled Data for Target-Oriented Opinion Words Extraction. [\[paper\]](https://arxiv.org/abs/2208.08280); [![](https://img.shields.io/github/stars/TOWESSL/TOWESSL?style=social&label=Code+Stars)](https://github.com/TOWESSL/TOWESSL) 
-  
-  **Yidong Wang**, Hao Wu, Ao Liu, Wenxin Hou, Zhen Wu, Jindong Wang, Takahiro Shinozaki, Manabu Okumura, Yue Zhang. 
-  
-  International Conference on Computational Linguistics 2022 (**COLING 2022**).
+- Towards Efficient Dialogue Pre-training with Transferable and Interpretable Latent Structure [\[paper\]](https://aclanthology.org/2022.emnlp-main.683/)
 
-- Exploiting Adapters for Cross-lingual Low-resource Speech Recognition. [\[paper\]](https://arxiv.org/abs/2105.11905); [![](https://img.shields.io/github/stars/jindongwang/transferlearning?style=social&label=Code+Stars)](https://github.com/jindongwang/transferlearning/tree/master/code/ASR/Adapter) 
-  
-  Wenxin Hou, Han Zhu, **Yidong Wang**, Jindong Wang, Tao Qin, Renjun Xu, Takahiro Shinozaki. 
-  
-  IEEE/ACM Transactions on Audio, Speech and Language Processing 2022 (**TASLP 2022**).
+  Xueliang Zhao, Lemao Liu, Tingchen Fu, Shuming Shi, Dongyan Zhao, Rui Yan
 
-- Flexmatch: Boosting Semi-supervised Learning with Curriculum Pseudo Labeling. [\[paper\]](https://arxiv.org/abs/2110.08263); [![](https://img.shields.io/github/stars/TorchSSL/TorchSSL?style=social&label=Code+Stars)](https://github.com/TorchSSL/TorchSSL) 
-  
-  Bowen Zhang, **Yidong Wang (co-first author)**, Wenxin Hou, Hao Wu, Jindong Wang, Manabu Okumura, Takahiro Shinozaki. 
-  
-  Advances in Neural Information Processing Systems 2021 (**NeurIPS 2021**).
+  Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2022**)
 
-- Meta-Adapter: Efficient Cross-Lingual Adaptation With Meta-Learning. [\[paper\]](https://ieeexplore.ieee.org/document/9414959); [![](https://img.shields.io/github/stars/jindongwang/transferlearning?style=social&label=Code+Stars)](https://github.com/jindongwang/transferlearning/tree/master/code/ASR/Adapter) 
-  
-  Wenxin Hou, **Yidong Wang**, Shengzhou Gao, Takahiro Shinozaki. 
-  
-  IEEE International Conference on Acoustics, Speech, and Signal Processing 2021 (**ICASSP 2021**).
+- Learning to Express in Knowledge-Grounded Conversation [\[paper\]](https://aclanthology.org/2022.naacl-main.164/)
 
-<!-- # 💻 Selected Projects
-- PandaLM [![](https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social&label=Code+Stars)](https://github.com/WeOpenML/PandaLM) refers to ReProducible and Automated Language Model Assessment. PandaLM aims to provide reproducible and automated comparisons between different large language models (LLMs). By giving PandaLM the same context, it can compare the responses of different LLMs and provide a reason for the decision, along with a reference answer. I am the main contributor to this repo and now leading the PandaLM team.
-- USB [![](https://img.shields.io/github/stars/microsoft/Semi-supervised-learning?style=social&label=Code+Stars)](https://github.com/microsoft/Semi-supervised-learning) is a Pytorch-based Python package for Semi-Supervised Learning (SSL). It is easy-to-use/extend, affordable, and comprehensive for developing and evaluating SSL algorithms. USB provides the implementation of 14 SSL algorithms based on Consistency Regularization, and 15 tasks for evaluation from CV, NLP, and Audio domain. I am the main contributor to this repo and now leading the USB team.
-- TorchSSL [![](https://img.shields.io/github/stars/TorchSSL/TorchSSL?style=social&label=Code+Stars)](https://github.com/TorchSSL/TorchSSL) is an all-in-one toolkit based on PyTorch for semi-supervised learning (SSL). Currently, we implemented 9 popular SSL algorithms to enable fair comparison and boost the development of SSL algorithms. I am the main contributor to this repo and now leading the TorchSSL team.
-- Microsoft NeuralSpeech [![](https://img.shields.io/github/stars/microsoft/NeuralSpeech?style=social&label=Code+Stars)](https://github.com/microsoft/NeuralSpeech) is a research project in Microsoft Research Asia focusing on neural network based speech processing, including automatic speech recognition (ASR), text to speech (TTS), etc. The code of Exploiting Adapters for Cross-lingual Low-resource Speech Recognition (TASLP 2022) has been moved to this repo. -->
+  Xueliang Zhao, Tingchen Fu, Chongyang Tao, Wei Wu, Dongyan Zhao, Rui Yan
+
+  Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (**NAACL 2022**)
+
+
+- There Are a Thousand Hamlets in a Thousand People's Eyes: Enhancing Knowledge-grounded Dialogue with Personal Memory. [\[paper\]](https://aclanthology.org/2022.acl-long.270/). 
+
+  Tingchen Fu, Xueliang Zhao, Chongyang Tao, Ji-Rong Wen, Rui Yan
+
+  Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (**ACL2022**)
 
 # 🎖 Honors and Awards
 - Outstanding Graduate, Renmin University of China, 2022 
