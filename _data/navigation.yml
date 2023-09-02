@@ -12,14 +12,14 @@ main:
   - title: "Internships"
     url: "/#-internships"
 
-  - title: "Preprints"
-    url: "/#-preprints"
+  # - title: "Preprints"
+  #   url: "/#-preprints"
 
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Projects"
-    url: "/#-projects"
+  # - title: "Projects"
+  #   url: "/#-projects"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"

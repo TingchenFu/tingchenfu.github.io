@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Tingchen Fu or 付廷琛 in Chinese. After spending lovely four years in Renmin University of China as an CS undergraduate, I am now starting a new journey in Gaoling School of Artificial Intelligence, Renmin University of China as an NLP researcher and a fanatic believer on AGI. Gaoling School of Artificial Intelligence. GSAI is a young and vibrant institute that has recently been established, bringing together a large group of researchers who are passionate about machine learning, and I am very lucky to start my life as a researcher at here, advised by Xueliang Zhao and Rui Yan. I occasionally have short excursions to the industry world. and I am currently an intern at Tencent AI Lab, mentored by Dr. Lemao Liu.
+Hello, I am Tingchen Fu (付廷琛 in Chinese). After spending lovely four years in Renmin University of China as an CS undergraduate, I am now starting a new journey in Gaoling School of Artificial Intelligence, Renmin University of China as an NLP researcher and a fanatic believer on AGI,  advised by [Xueliang Zhao](https://scholar.google.com/citations?user=h-87C9cAAAAJ&hl=zh-CN) and [Rui Yan](https://scholar.google.com/citations?hl=zh-CN&user=eLw6g-UAAAAJ). I occasionally have short excursions to the industry world and I am currently an intern at Tencent AI Lab, mentored by Dr. [Lemao Liu](https://scholar.google.com/citations?hl=en&user=lCvNOg4AAAAJ&view_op=list_works&sortby=pubdate).
 
 I have broad research interest around intelligent dialogue system, data-driven analysis of deep learning models, and the development of large language model. Particularly, I am fancinated by the capacity and potential of language models and dedicated to unveil how to inject and extract knowledge from language models. Enjoying the exploration to the cutting edge of NLP and AGI, I am happy to share my trials and findings at top international AI Conferences. You can find my publications at [here]().
 
@@ -71,40 +71,46 @@ I have broad research interest around intelligent dialogue system, data-driven a
 
 # 📝 Publications
 
+- Delving into Global Dialogue Structures: Structure Planning Augmented Response Selection for Multi-turn Conversations [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3580305.3599304)
+
+  **Tingchen Fu**(co-first author), Xueliang Zhao, and Rui Yan
+
+  Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD2023**)
+
 - On the Compositional Generalization in Versatile Open-domain Dialogue [\[paper\]](https://aclanthology.org/2023.acl-long.760/)
 
-  Tingchen Fu, Xueliang Zhao, Lemao Liu, Rui Yan
+  **Tingchen Fu**(co-first author), Xueliang Zhao, Lemao Liu, Rui Yan
 
   Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (**ACL 2023**)
 
 - SORTIE: Dependency-Aware Symbolic Reasoning for Logical Data-to-text Generation [\[paper\]](https://aclanthology.org/2023.findings-acl.715/)
 
-  Xueliang Zhao, Tingchen Fu, Lemao Liu, Lingpeng Kong, Shuming Shi, Rui Yan
+  Xueliang Zhao, **Tingchen Fu**(co-first author), Lemao Liu, Lingpeng Kong, Shuming Shi, Rui Yan
 
   Findings of the Association for Computational Linguistics: ACL 2023
 
 - There Is No Standard Answer: Knowledge-Grounded Dialogue Generation with Adversarial Activated Multi-Reference Learning [\[paper\]](https://aclanthology.org/2022.emnlp-main.123/)
 
-  Xueliang Zhao, Tingchen Fu, Chongyang Tao, Rui Yan
+  Xueliang Zhao, **Tingchen Fu**(co-first author), Chongyang Tao, Rui Yan
 
   Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2022**)
 
 - Towards Efficient Dialogue Pre-training with Transferable and Interpretable Latent Structure [\[paper\]](https://aclanthology.org/2022.emnlp-main.683/)
 
-  Xueliang Zhao, Lemao Liu, Tingchen Fu, Shuming Shi, Dongyan Zhao, Rui Yan
+  Xueliang Zhao, Lemao Liu, **Tingchen Fu**, Shuming Shi, Dongyan Zhao, Rui Yan
 
   Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2022**)
 
 - Learning to Express in Knowledge-Grounded Conversation [\[paper\]](https://aclanthology.org/2022.naacl-main.164/)
 
-  Xueliang Zhao, Tingchen Fu, Chongyang Tao, Wei Wu, Dongyan Zhao, Rui Yan
+  Xueliang Zhao, **Tingchen Fu**, Chongyang Tao, Wei Wu, Dongyan Zhao, Rui Yan
 
   Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (**NAACL 2022**)
 
 
 - There Are a Thousand Hamlets in a Thousand People's Eyes: Enhancing Knowledge-grounded Dialogue with Personal Memory. [\[paper\]](https://aclanthology.org/2022.acl-long.270/). 
 
-  Tingchen Fu, Xueliang Zhao, Chongyang Tao, Ji-Rong Wen, Rui Yan
+  **Tingchen Fu**, Xueliang Zhao, Chongyang Tao, Ji-Rong Wen, Rui Yan
 
   Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (**ACL2022**)
 
