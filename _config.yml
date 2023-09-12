@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tingchen Fu"
   avatar           : "images/photo.jpg"
-  bio              : "lucas.futingchen[at]gmail.com"
+  bio              : "Dream it, code it!"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YomxTXQAAAAJ"
-  email            : 
+  email            : "lucas.futingchen[at]gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : tingchenfu
   vine             :
   weibo            :
   xing             :

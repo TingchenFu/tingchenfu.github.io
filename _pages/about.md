@@ -110,7 +110,7 @@ I have broad research interest around intelligent dialogue system, data-driven a
 
 - There Are a Thousand Hamlets in a Thousand People's Eyes: Enhancing Knowledge-grounded Dialogue with Personal Memory. [\[paper\]](https://aclanthology.org/2022.acl-long.270/). 
 
-  **Tingchen Fu**, Xueliang Zhao, Chongyang Tao, Ji-Rong Wen, Rui Yan
+  **Tingchen Fu**(co-first author), Xueliang Zhao, Chongyang Tao, Ji-Rong Wen, Rui Yan
 
   Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (**ACL2022**)
 
