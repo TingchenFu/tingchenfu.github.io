@@ -23,6 +23,7 @@ I have broad research interest around intelligent dialogue system, data-driven a
 
 
 # 🔥 News
+- *2023.05*: &nbsp;🎉🎉 I got one paper accepted by the findings of EMNLP'23. Thanks for my colleborators! See you at Singapore.
 - *2023.05*: &nbsp;🎉🎉 I got one paper accepted by KDD'23. Thanks for my colleborators! See you at Longbeach.
 - *2023.05*: &nbsp;🎉🎉 I got two papers accepeted by ACL and the findings of ACL. Thanks for my colleborators! 
 - *2023.02*: &nbsp;🎉🎉 Join the Tencent AI Lab as an research intern, advised by Dr. Lemao Liu
@@ -30,7 +31,7 @@ I have broad research interest around intelligent dialogue system, data-driven a
 
 # 📖 Educations
 - *2022.09 - present*, master student in the Gaoling School of Artificial Intelligence, Renmin University of China.
-- *2018.09 - 2022.06*, undergraduate student in the School of Information, Nanjing University.
+- *2018.09 - 2022.06*, undergraduate student in the School of Information, Renmin University of China.
 
 # 💼 Internships
 - *2023.02 - present*, Tencent AI Lab, advised by Dr. Lemao Liu.
