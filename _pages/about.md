@@ -17,12 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Tingchen Fu (付廷琛 in Chinese). After spending lovely four years in Renmin University of China as an CS undergraduate, I am now starting a new journey in Gaoling School of Artificial Intelligence, Renmin University of China as an NLP researcher and a fanatic believer on AGI,  advised by [Xueliang Zhao](https://scholar.google.com/citations?user=h-87C9cAAAAJ&hl=zh-CN) and [Rui Yan](https://scholar.google.com/citations?hl=zh-CN&user=eLw6g-UAAAAJ). I occasionally have short excursions to the industry world and I am currently an intern at Tencent AI Lab, mentored by Dr. [Lemao Liu](https://scholar.google.com/citations?hl=en&user=lCvNOg4AAAAJ&view_op=list_works&sortby=pubdate).
+Hello, I am Tingchen Fu (付廷琛 in Chinese), a 2nd-year master student in Gaoling School of Artificial Intelligence, Renmin University of China as an NLP researcher and a fanatic believer on AGI, advised by [Xueliang Zhao](https://scholar.google.com/citations?user=h-87C9cAAAAJ&hl=zh-CN) and [Rui Yan](https://scholar.google.com/citations?hl=zh-CN&user=eLw6g-UAAAAJ). I occasionally have short excursions to the industry world. Currently I am an intern at Tencent AI Lab, mentored by Dr. [Lemao Liu](https://scholar.google.com/citations?hl=en&user=lCvNOg4AAAAJ&view_op=list_works&sortby=pubdate) and work in close colleboration with Dr. [Cai Deng](https://jcyk.github.io/).  I am actively seeking a PhD position in NLP for Fall 2024.
 
-I have broad research interest around intelligent dialogue system, data-driven analysis of deep learning models, and the development of large language model. Particularly, I am fancinated by the capacity and potential of language models and dedicated to unveil how to inject and extract knowledge from language models. Enjoying the exploration to the cutting edge of NLP and AGI, I am happy to share my trials and findings at top international AI Conferences. You can find my publications at [here](https://scholar.google.com/citations?user=bv_8Q_kAAAAJ&hl=en).
+I am genelly interested in machine learning, language technology, and their intersection, with a special emphasis on understanding and unleashing the full potential of Large Language Models. Specifically, I am currently interested in the following topics:
+- Retrieval-augmented generation to build trustworthy LLM.
+- Decentralized collaborative development of models like model merging and modular architecture.
+- Identifying and mitigating the risk in LLM like bias, privacy, and security. 
+
 
 
 # 🔥 News
+- *2024.01*: &nbsp;🎉🎉 I got one paper accepted by ICLR'24. Thanks for my colleborators! See you at Vienna.
+- *2023.09*: &nbsp;🎉🎉 Our survey on LLM hallucination: Siren's Song in the AI Ocean is coming out!
 - *2023.05*: &nbsp;🎉🎉 I got one paper accepted by the findings of EMNLP'23. Thanks for my colleborators! See you at Singapore.
 - *2023.05*: &nbsp;🎉🎉 I got one paper accepted by KDD'23. Thanks for my colleborators! See you at Longbeach.
 - *2023.05*: &nbsp;🎉🎉 I got two papers accepeted by ACL and the findings of ACL. Thanks for my colleborators! 
@@ -36,41 +42,19 @@ I have broad research interest around intelligent dialogue system, data-driven a
 # 💼 Internships
 - *2023.02 - present*, Tencent AI Lab, advised by Dr. Lemao Liu.
 
-<!-- 
+
 # 📝 Preprints
-- A Survey on Evaluation of Large Language Models. [\[paper\]](https://arxiv.org/abs/2307.03109); [![](https://img.shields.io/github/stars/MLGroupJLU/LLM-eval-survey?style=social&label=Code+Stars)](https://github.com/MLGroupJLU/LLM-eval-survey)
+- Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models. [\[paper\]]([https://arxiv.org/abs/2307.03109)
 
-  Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Kaijie Zhu, Hao Chen, Linyi Yang, Xiaoyuan Yi, Cunxiang Wang, **Yidong Wang**, Wei Ye, Yue Zhang, Yi Chang, Philip S. Yu, Qiang Yang, Xing Xie.
-
-- PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization. [\[paper\]](https://arxiv.org/abs/2306.05087); [![](https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social&label=Code+Stars)](https://github.com/WeOpenML/PandaLM)
-  
-  **Yidong Wang**, Zhuohao Yu, Zhengran Zeng, Linyi Yang, Cunxiang Wang, Hao Chen, Chaoya Jiang, Rui Xie, Jindong Wang, Xing Xie, Wei Ye, Shikun Zhang, Yue Zhang.
-
-- Evaluating open question answering evaluation. [\[paper\]](https://arxiv.org/abs/2305.12421); [![](https://img.shields.io/github/stars/wangcunxiang/QA-Eval?style=social&label=Code+Stars)](https://github.com/wangcunxiang/QA-Eval)
-  
-  Cunxiang Wang, Sirui Cheng, Zhikun Xu, Bowen Ding, **Yidong Wang**, Yue Zhang.
-  
-- Imprecise Label Learning: A Unified Framework for Learning with Various Imprecise Label Configurations. [\[paper\]](https://arxiv.org/abs/2305.12715).
-  
-  Hao Chen, Ankit Shah, Jindong Wang, Ran Tao, **Yidong Wang**, Xing Xie, Masashi Sugiyama, Rita Singh, Bhiksha Raj.
-  
-- Out-of-Distribution Generalization in Text Classification: Past, Present, and Future. [\[paper\]](https://arxiv.org/abs/2305.14104).
-  
-  Linyi Yang, Yaoxiao Song, Xuan Ren, Chenyang Lyu, **Yidong Wang**, Lingqiao Liu, Jindong Wang, Jennifer Foster, Yue Zhang.
-
-- PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts. [\[paper\]](https://arxiv.org/abs/2306.04528); [![](https://img.shields.io/github/stars/microsoft/promptbench?style=social&label=Code+Stars)](https://github.com/microsoft/promptbench)
-  
-  Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zichen Wang, Hao Chen, **Yidong Wang**, Linyi Yang, Wei Ye, Neil Zhenqiang Gong, Yue Zhang, Xing Xie.
-
-- Conv-Adapter: Exploring Parameter Efficient Transfer Learning for ConvNets. [\[paper\]](https://arxiv.org/abs/2208.07463). 
-  
-  Hao Chen, Ran Tao, Han Zhang, **Yidong Wang**, Wei Ye, Jindong Wang, Guosheng Hu, Marios Savvides.
-
-- An Embarrassingly Simple Baseline for Imbalanced Semi-Supervised Learning. [\[paper\]](https://arxiv.org/abs/2211.11086). 
-  
-  Hao Chen, Yue Fan, **Yidong Wang**, Jindong Wang, Bernt Schiele, Xing Xie, Marios Savvides, Bhiksha Raj.  -->
+  Yue Zhang, Yafu Li, Leyang Cui, Deng Cai, Lemao Liu, **Tingchen Fu**, Xinting Huang, Enbo Zhao, Yu Zhang, Yulong Chen, Longyue Wang, Anh Tuan Luu, Wei Bi, Freda Shi, Shuming Shi
 
 # 📝 Publications
+
+- The Reasonableness Behind Unreasonable Translation Capability of Large Language Model [\[paper\]](https://openreview.net/pdf?id=3KDbIWT26J)
+
+  Tingchen Fu, Lemao Liu, Deng Cai, Guoping Huang, Shuming Shi, Rui Yan
+  
+  The Twelfth International Conference on Learning Representations (**ICLR 2024**)
 
 - Delving into Global Dialogue Structures: Structure Planning Augmented Response Selection for Multi-turn Conversations [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3580305.3599304)
 
