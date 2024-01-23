@@ -25,6 +25,9 @@ I am genelly interested in machine learning, language technology, and their inte
 - Identifying and mitigating the risk in LLM like bias, privacy, and security. 
 
 
+**
+I am actively seeking a PhD position in NLP starting at Fall 2025. If you are interested in my research, please feel free to contact. **
+
 
 # 🔥 News
 - *2024.01*: &nbsp;🎉🎉 I got one paper accepted by ICLR'24. Thanks for my colleborators! See you at Vienna.
