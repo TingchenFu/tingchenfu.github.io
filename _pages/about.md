@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Tingchen Fu (付廷琛 in Chinese), a 2nd-year master student in Gaoling School of Artificial Intelligence, Renmin University of China as an NLP researcher and a fanatic believer on AGI, advised by [Xueliang Zhao](https://scholar.google.com/citations?user=h-87C9cAAAAJ&hl=zh-CN) and [Rui Yan](https://scholar.google.com/citations?hl=zh-CN&user=eLw6g-UAAAAJ). I occasionally have short excursions to the industry world. Currently I am an intern at Tencent AI Lab, mentored by Dr. [Lemao Liu](https://scholar.google.com/citations?hl=en&user=lCvNOg4AAAAJ&view_op=list_works&sortby=pubdate) and work in close colleboration with Dr. [Cai Deng](https://jcyk.github.io/).  I am actively seeking a PhD position in NLP for Fall 2024.
+Hello, I am Tingchen Fu (付廷琛 in Chinese), a 2nd-year master student in Gaoling School of Artificial Intelligence, Renmin University of China as an NLP researcher and a fanatic believer on AGI, advised by [Xueliang Zhao](https://scholar.google.com/citations?user=h-87C9cAAAAJ&hl=zh-CN) and [Rui Yan](https://scholar.google.com/citations?hl=zh-CN&user=eLw6g-UAAAAJ). I occasionally have short excursions to the industry world. Currently I am an intern at Tencent AI Lab, mentored by Dr. [Lemao Liu](https://scholar.google.com/citations?hl=en&user=lCvNOg4AAAAJ&view_op=list_works&sortby=pubdate) and work in close colleboration with Dr. [Cai Deng](https://jcyk.github.io/).  **I am actively seeking a PhD position in NLP starting at Fall 2025. If you are interested in my research, please feel free to contact.**
 
 I am genelly interested in machine learning, language technology, and their intersection, with a special emphasis on understanding and unleashing the full potential of Large Language Models. Specifically, I am currently interested in the following topics:
 - Retrieval-augmented generation to build trustworthy LLM.
@@ -25,7 +25,7 @@ I am genelly interested in machine learning, language technology, and their inte
 - Identifying and mitigating the risk in LLM like bias, privacy, and security. 
 
 
-**I am actively seeking a PhD position in NLP starting at Fall 2025. If you are interested in my research, please feel free to contact.**
+
 
 
 # 🔥 News
