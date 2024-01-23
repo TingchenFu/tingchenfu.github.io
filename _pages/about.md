@@ -22,7 +22,7 @@ Hello, I am Tingchen Fu (付廷琛 in Chinese), a 2nd-year master student in Gao
 I am genelly interested in machine learning, language technology, and their intersection, with a special emphasis on understanding and unleashing the full potential of Large Language Models. Specifically, I am currently interested in the following topics:
 - Retrieval-augmented generation to build trustworthy LLM.
 - Decentralized collaborative development of models like model merging and modular architecture.
-- Identifying and mitigating the risk in LLM like bias, privacy, and security. 
+- Identifying and mitigating the risk in LLM like bias, privacy leakage, and hallucination. 
 
 
 
