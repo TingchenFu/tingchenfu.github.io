@@ -58,6 +58,12 @@ I am genelly interested in machine learning, language technology, and their inte
   
   The Twelfth International Conference on Learning Representations (**ICLR 2024**)
 
+- Logic Unveils Truth, While Disguise Obscures It: Transition Logic Augmented Response Selection for Multi-Turn Dialogue [\[paper\]](https://aclanthology.org/2023.findings-emnlp.513.pdf)
+
+  **Tingchen Fu**(co-first author), Xueliang Zhao, Lemao Liu, Rui Yan
+
+  Findings of the Association for Computational Linguistics: EMNLP 2023
+
 - Delving into Global Dialogue Structures: Structure Planning Augmented Response Selection for Multi-turn Conversations [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3580305.3599304)
 
   **Tingchen Fu**(co-first author), Xueliang Zhao, and Rui Yan
@@ -100,6 +106,12 @@ I am genelly interested in machine learning, language technology, and their inte
   **Tingchen Fu**(co-first author), Xueliang Zhao, Chongyang Tao, Ji-Rong Wen, Rui Yan
 
   Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (**ACL2022**)
+
+- Learning towards conversational ai: A survey [\[paper\]](https://www.sciencedirect.com/science/article/pii/S2666651022000079)
+
+  Tingchen Fu, Shen Gao, Xueliang Zhao, Ji-rong Wen, Rui Yan
+
+  The Journal of AI open.
 
 # 🎖 Honors and Awards
 - Outstanding Graduate, Renmin University of China, 2022 
