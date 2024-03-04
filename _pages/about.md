@@ -42,7 +42,7 @@ I am genelly interested in machine learning, language technology, and their inte
 - *2018.09 - 2022.06*, undergraduate student in the School of Information, Renmin University of China.
 
 # 💼 Internships
-- *2023.02 - present*, Tencent AI Lab, advised by Dr. Lemao Liu.
+- *2023.02 - 2023.03*, Tencent AI Lab, advised by Dr. Lemao Liu.
 
 
 # 📝 Preprints
@@ -109,7 +109,7 @@ I am genelly interested in machine learning, language technology, and their inte
 
 - Learning towards conversational ai: A survey [\[paper\]](https://www.sciencedirect.com/science/article/pii/S2666651022000079)
 
-  Tingchen Fu, Shen Gao, Xueliang Zhao, Ji-rong Wen, Rui Yan
+  **Tingchen Fu**, Shen Gao, Xueliang Zhao, Ji-rong Wen, Rui Yan
 
   The Journal of AI open.
 
