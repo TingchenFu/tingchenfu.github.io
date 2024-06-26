@@ -29,6 +29,7 @@ I am genelly interested in machine learning, language technology, and their inte
 
 
 # 🔥 News
+- *2024.05*: &nbsp;🎉🎉 I got two paper accepted by findings of ACL 2024. Thanks for my colleborators! See you at Bangkok.
 - *2024.01*: &nbsp;🎉🎉 I got one paper accepted by ICLR'24. Thanks for my colleborators! See you at Vienna.
 - *2023.09*: &nbsp;🎉🎉 Our survey on LLM hallucination: Siren's Song in the AI Ocean is coming out!
 - *2023.05*: &nbsp;🎉🎉 I got one paper accepted by the findings of EMNLP'23. Thanks for my colleborators! See you at Singapore.
@@ -51,6 +52,18 @@ I am genelly interested in machine learning, language technology, and their inte
   Yue Zhang, Yafu Li, Leyang Cui, Deng Cai, Lemao Liu, **Tingchen Fu**, Xinting Huang, Enbo Zhao, Yu Zhang, Yulong Chen, Longyue Wang, Anh Tuan Luu, Wei Bi, Freda Shi, Shuming Shi
 
 # 📝 Publications
+
+- BBA: Bi-Modal Behavioral Alignment for Reasoning with Large Vision-Language Models [\[paper\]](https://arxiv.org/pdf/2402.13577)
+
+  Xueliang Zhao, Xinting Huang, **Tingchen Fu**, Qintong Li, Shansan Gong, Lemao Liu, Wei Bi, Lingpeng Kong.
+
+  Findings of the Association for Computational Linguistics: ACL 2024
+
+- Disperse-Then-Merge: Pushing the Limits of Instruction Tuning via Alignment Tax Reduction. [\[paper\]](https://arxiv.org/pdf/2405.13432)
+
+ **Tingchen Fu**, Deng Cai, Lemao Liu, Shuming Shi, Rui Yan.
+
+ Findings of the Association for Computational Linguistics: ACL 2024
 
 - The Reasonableness Behind Unreasonable Translation Capability of Large Language Model [\[paper\]](https://openreview.net/pdf?id=3KDbIWT26J)
 
