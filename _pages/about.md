@@ -61,9 +61,9 @@ I am genelly interested in machine learning, language technology, and their inte
 
 - Disperse-Then-Merge: Pushing the Limits of Instruction Tuning via Alignment Tax Reduction. [\[paper\]](https://arxiv.org/pdf/2405.13432)
 
- **Tingchen Fu**, Deng Cai, Lemao Liu, Shuming Shi, Rui Yan.
+  **Tingchen Fu**, Deng Cai, Lemao Liu, Shuming Shi, Rui Yan.
 
- Findings of the Association for Computational Linguistics: ACL 2024
+  Findings of the Association for Computational Linguistics: ACL 2024
 
 - The Reasonableness Behind Unreasonable Translation Capability of Large Language Model [\[paper\]](https://openreview.net/pdf?id=3KDbIWT26J)
 
