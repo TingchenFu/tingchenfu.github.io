@@ -47,6 +47,11 @@ I am genelly interested in machine learning, language technology, and their inte
 
 
 # 📝 Preprints
+
+- On the Transformations across Reward Model, Parameter Update, and In-Context Prompt. [\[paper\]]([https://arxiv.org/pdf/2406.16377)
+
+  Deng Cai, Huayang Li, Tingchen Fu, Siheng Li, Weiwen Xu, Shuaiyi Li, Bowen Cao, Zhisong Zhang, Xinting Huang, Leyang Cui, Yan Wang, Lemao Liu, Taro Watanabe, Shuming Shi
+
 - Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models. [\[paper\]]([https://arxiv.org/abs/2307.03109)
 
   Yue Zhang, Yafu Li, Leyang Cui, Deng Cai, Lemao Liu, **Tingchen Fu**, Xinting Huang, Enbo Zhao, Yu Zhang, Yulong Chen, Longyue Wang, Anh Tuan Luu, Wei Bi, Freda Shi, Shuming Shi
