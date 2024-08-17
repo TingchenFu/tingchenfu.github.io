@@ -38,8 +38,8 @@ I am genelly interested in machine learning, language technology, and their inte
 - *2018.09 - 2022.06*, undergraduate student in the School of Information, Renmin University of China.
 
 # 💼 Internships
-- *2023.02 - 2023.03*, Tencent AI Lab, advised by Dr. Lemao Liu.
-- *2023.03 - 2023.07*, Remote internship at UCSD, advised by Julian McAuley.
+- *2023.02 - 2024.03*, Tencent AI Lab, advised by Dr. Lemao Liu.
+- *2024.03 - 2024.07*, Remote internship at UCSD, advised by Julian McAuley.
 
 
 # 📝 Preprints
