@@ -39,6 +39,7 @@ I am genelly interested in machine learning, language technology, and their inte
 
 # 💼 Internships
 - *2023.02 - 2023.03*, Tencent AI Lab, advised by Dr. Lemao Liu.
+- *2023.03 - 2023.07*, Remote internship at UCSD, advised by Julian McAuley.
 
 
 # 📝 Preprints
