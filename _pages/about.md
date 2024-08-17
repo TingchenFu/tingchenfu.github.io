@@ -32,11 +32,6 @@ I am genelly interested in machine learning, language technology, and their inte
 - *2024.05*: &nbsp;🎉🎉 I got two paper accepted by findings of ACL 2024. Thanks for my colleborators! See you at Bangkok.
 - *2024.01*: &nbsp;🎉🎉 I got one paper accepted by ICLR'24. Thanks for my colleborators! See you at Vienna.
 - *2023.09*: &nbsp;🎉🎉 Our survey on LLM hallucination: Siren's Song in the AI Ocean is coming out!
-- *2023.05*: &nbsp;🎉🎉 I got one paper accepted by the findings of EMNLP'23. Thanks for my colleborators! See you at Singapore.
-- *2023.05*: &nbsp;🎉🎉 I got one paper accepted by KDD'23. Thanks for my colleborators! See you at Longbeach.
-- *2023.05*: &nbsp;🎉🎉 I got two papers accepeted by ACL and the findings of ACL. Thanks for my colleborators! 
-- *2023.02*: &nbsp;🎉🎉 Join the Tencent AI Lab as an research intern, advised by Dr. Lemao Liu
-- *2022.06*: &nbsp;🎉🎉 Obtain my Bachelor of Engineering from Renmin University of China. 
 
 # 📖 Educations
 - *2022.09 - present*, master student in the Gaoling School of Artificial Intelligence, Renmin University of China.
@@ -48,9 +43,13 @@ I am genelly interested in machine learning, language technology, and their inte
 
 # 📝 Preprints
 
+- Unlocking Decoding-time Controllability: Gradient-Free Multi-Objective Alignment with Contrastive Prompts. [\[paper\]]([https://arxiv.org/pdf/2408.05094)
+
+  **Tingchen Fu**, Yupeng Hou, Julian McAuley and Ruiyan. 
+
 - On the Transformations across Reward Model, Parameter Update, and In-Context Prompt. [\[paper\]]([https://arxiv.org/pdf/2406.16377)
 
-  Deng Cai, Huayang Li, Tingchen Fu, Siheng Li, Weiwen Xu, Shuaiyi Li, Bowen Cao, Zhisong Zhang, Xinting Huang, Leyang Cui, Yan Wang, Lemao Liu, Taro Watanabe, Shuming Shi
+  Deng Cai, Huayang Li, **Tingchen Fu**, Siheng Li, Weiwen Xu, Shuaiyi Li, Bowen Cao, Zhisong Zhang, Xinting Huang, Leyang Cui, Yan Wang, Lemao Liu, Taro Watanabe, Shuming Shi
 
 - Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models. [\[paper\]]([https://arxiv.org/abs/2307.03109)
 
