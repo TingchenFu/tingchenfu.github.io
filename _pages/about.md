@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Tingchen Fu (付廷琛 in Chinese), a 2nd-year master student in Gaoling School of Artificial Intelligence, Renmin University of China as an NLP researcher and a fanatic believer on AGI, advised by [Xueliang Zhao](https://scholar.google.com/citations?user=h-87C9cAAAAJ&hl=zh-CN) and [Rui Yan](https://scholar.google.com/citations?hl=zh-CN&user=eLw6g-UAAAAJ). I occasionally have short excursions to the industry world. Currently I am an intern at Tencent AI Lab, mentored by Dr. [Lemao Liu](https://scholar.google.com/citations?hl=en&user=lCvNOg4AAAAJ&view_op=list_works&sortby=pubdate) and work in close colleboration with Dr. [Deng Cai](https://jcyk.github.io/).  **I am actively seeking a PhD position in NLP starting at Fall 2025. If you are interested in my research, please feel free to contact.**
+Hello, I am Tingchen Fu (付廷琛 in Chinese), a 3rd-year master student in Gaoling School of Artificial Intelligence, Renmin University of China as an NLP researcher and a fanatic believer on AGI, advised by [Xueliang Zhao](https://scholar.google.com/citations?user=h-87C9cAAAAJ&hl=zh-CN) and [Rui Yan](https://scholar.google.com/citations?hl=zh-CN&user=eLw6g-UAAAAJ).  **I am actively seeking a PhD position in NLP starting at Fall 2025. If you are interested in my research, please feel free to contact.**
 
 I am genelly interested in machine learning, language technology, and their intersection, with a special emphasis on understanding and unleashing the full potential of Large Language Models. Specifically, I am currently interested in the following topics:
-- the alignment of large langauge model.
-- Data/Compute efficient language model training.
-- Understanding and mitigating the limitations of LLM like social bias, privacy leakage, and hallucination. 
+- LLM alignment.
+- Safety and robustness of LLM and VLM system.
+- LLM for reasoning. 
 
 
 
@@ -31,28 +31,35 @@ I am genelly interested in machine learning, language technology, and their inte
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 I got two paper accepted by findings of ACL 2024. Thanks for my colleborators! See you at Bangkok.
 - *2024.01*: &nbsp;🎉🎉 I got one paper accepted by ICLR'24. Thanks for my colleborators! See you at Vienna.
-- *2023.09*: &nbsp;🎉🎉 Our survey on LLM hallucination: Siren's Song in the AI Ocean is coming out!
 
 # 📖 Educations
 - *2022.09 - present*, master student in the Gaoling School of Artificial Intelligence, Renmin University of China.
 - *2018.09 - 2022.06*, undergraduate student in the School of Information, Renmin University of China.
 
 # 💼 Internships
-- *2023.02 - 2024.03*, Tencent AI Lab, advised by Dr. Lemao Liu.
-- *2024.03 - 2024.07*, Remote internship at UCSD, advised by Julian McAuley.
+- *2023.02 - 2024.03*, Tencent AI Lab, advised by Dr. [Lemao Liu](https://openreview.net/profile?id=~Lemao_Liu3).
+- *2024.07 - now*, Bytedance AML, advised by Dr. [Shipeng Yan](https://yanshipeng.com/).
 
 
 # 📝 Preprints
 
-- Unlocking Decoding-time Controllability: Gradient-Free Multi-Objective Alignment with Contrastive Prompts. [\[paper\]]([https://arxiv.org/pdf/2408.05094)
+- Open Problems in Machine Unlearning for AI Safety. [\[paper\]](https://arxiv.org/pdf/2501.04952)
+  
+  Fazl Barez, **Tingchen Fu**, Ameya Prabhu, Stephen Casper, Amartya Sanyal, Adel Bibi, Aidan O'Gara, Robert Kirk, Ben Bucknall, Tim Fist, Luke Ong, Philip Torr, Kwok-Yan Lam, Robert Trager, David Krueger, Sören Mindermann, José Hernandez-Orallo, Mor Geva, Yarin Gal
 
-  **Tingchen Fu**, Yupeng Hou, Julian McAuley and Ruiyan. 
+- PoisonBench: Assessing Large Language Model Vulnerability to Data Poisoning. [\[paper\]](https://arxiv.org/abs/2410.08811)
 
-- On the Transformations across Reward Model, Parameter Update, and In-Context Prompt. [\[paper\]]([https://arxiv.org/pdf/2406.16377)
+  **Tingchen Fu**, Mrinank Sharma, Philip Torr, Shay B. Cohen, David Krueger and Fazl Barez.
+
+- Unlocking Decoding-time Controllability: Gradient-Free Multi-Objective Alignment with Contrastive Prompts. [\[paper\]](https://arxiv.org/pdf/2408.05094)
+
+  **Tingchen Fu**, Yupeng Hou, Julian McAuley and Rui Yan. 
+
+- On the Transformations across Reward Model, Parameter Update, and In-Context Prompt. [\[paper\]](https://arxiv.org/pdf/2406.16377)
 
   Deng Cai, Huayang Li, **Tingchen Fu**, Siheng Li, Weiwen Xu, Shuaiyi Li, Bowen Cao, Zhisong Zhang, Xinting Huang, Leyang Cui, Yan Wang, Lemao Liu, Taro Watanabe, Shuming Shi
 
-- Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models. [\[paper\]]([https://arxiv.org/abs/2307.03109)
+- Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models. [\[paper\]](https://arxiv.org/abs/2307.03109)
 
   Yue Zhang, Yafu Li, Leyang Cui, Deng Cai, Lemao Liu, **Tingchen Fu**, Xinting Huang, Enbo Zhao, Yu Zhang, Yulong Chen, Longyue Wang, Anh Tuan Luu, Wei Bi, Freda Shi, Shuming Shi
 
