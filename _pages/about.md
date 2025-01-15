@@ -139,6 +139,7 @@ I am genelly interested in machine learning, language technology, and their inte
   The Journal of AI open.
 
 # 🎖 Honors and Awards
+- National Scholarship, the Minister of Education, 2024
 - Outstanding Graduate, Renmin University of China, 2022 
 - National Scholarship, the Minister of Education, 2021
 - National Scholarship, the Minister of Education, 2020
