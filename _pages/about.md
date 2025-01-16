@@ -38,7 +38,7 @@ I am genelly interested in machine learning, language technology, and their inte
 
 # 💼 Internships
 - *2023.02 - 2024.03*, Tencent AI Lab, advised by Dr. [Lemao Liu](https://openreview.net/profile?id=~Lemao_Liu3).
-- *2024.07 - now*, Bytedance AML, advised by Dr. [Shipeng Yan](https://yanshipeng.com/).
+- *2024.07 - now*, Bytedance Seed, advised by Dr. [Shipeng Yan](https://yanshipeng.com/).
 
 
 # 📝 Preprints
